@@ -1,6 +1,8 @@
 Flickr Crawler
 =============
 
+Flickr photo/friendship crawler
+
 ## General description
 
 In this project we implemented two crawlers for Flickr website. Our code is in Python and it runs in two levels.
